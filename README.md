@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Shahinur Akter
+### Hi there😀 , My name is Shahinur Akter
 #### I am full-Stack Web-Developer With Django
 ![I am full-Stack Web-Developer With Django](https://us.123rf.com/450wm/garagestock/garagestock1605/garagestock160507748/57581527-technology-concept-software-engineering.jpg?ver=6)
 
