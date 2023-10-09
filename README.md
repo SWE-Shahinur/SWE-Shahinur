@@ -1,27 +1,36 @@
-### Hi there😀 , My name is Shahinur Akter
-#### I am full-Stack Web-Developer With Django
-![I am full-Stack Web-Developer With Django](https://us.123rf.com/450wm/garagestock/garagestock1605/garagestock160507748/57581527-technology-concept-software-engineering.jpg?ver=6)
+### Hi there 👋, My name is Shahinur
+#### Software Engineer || Data Scientist || ML 
+![Software Engineer || Data Scientist || ML ](https://media.licdn.com/dms/image/D5616AQGjf9fc6luekQ/profile-displaybackgroundimage-shrink_350_1400/0/1694338467471?e=1702512000&v=beta&t=NoSdUQUV1YZ1vZejJTPrxYxaXjpRRl7eDU2spaREZ6g)
 
-Hi there, I am Shahinur Akter. My intention is to utilize my skill & capability in a challenging & creative environment as a hardworking person and to excel in the enterprise I undertake and create the best result.
+Hi there, I am Shahinur. My intention is to utilize my skill & capability in a challenging & creative environment as a hardworking person and to excel in the enterprise I undertake and create the best result.
 
-Skills: HTML / CSS/BOOTSTRAP/JS/PYTHON/DJANGO
+Skill:
+Python: Basic Syntax,Loop,List, Tuples, Set, Dictionaries,Functions,Classes, Objects & Method.
+SQL: Normalization/Query,Joining/Union.
+Data Analysis: Numpy & Pandas.
+Statistics: Basic Statistics for Data Science.
+Data Visualization: Matplotlib,Pandas,Seaborn.
+Machine Learning: Feature Sacling, PCA,Feature Engineering,Linear Regression,Logistic Regression.KNN,DTree,SVM,K Means Clustering.
+Introduction to Advance Data Science: ANN,NLP.
+
+Feel free to contact me directly at swe.shahinur@gmail.com
+My portfolio: http://shahinur.medleytech.ca/
+GitHub: https://github.com/SWE-Shahinur
+
+- 🌱 I’m currently learning Data Science 
+- 💬 Ask me about Software Engineering & Data Science 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SWE-Shahinur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swe-shahinur//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@swe.shahinur)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SWE-Shahinur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swe-shahinur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://shahinur.medleytech.ca/)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/SWE-Shahinur)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SWE-Shahinur)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SWE-Shahinur)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SWE-Shahinur&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWE-Shahinur)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/SWE-Shahinur)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Shahinur&show_icons=true)  
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/SWE-Shahinur)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SWE-Shahinur)  
-
-![GitHub metrics](https://metrics.lecoq.io/SWE-Shahinur)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SWE-Shahinur)  
-
-![Profile views](https://gpvc.arturio.dev/SWE-Shahinur)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/SWE-Shahinur)  
